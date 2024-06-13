@@ -1,5 +1,5 @@
 # Vue3App
-使用vue3+electron制作的桌面应用,可build生成setup,并完成安装。
+使用vue3+vite+electron制作的桌面应用,可build生成setup,并完成安装。
 
 目前可实现的功能：
   1.输入墙体的各种参数在canvas中生成墙体,可以选择有无洞口,生成之后可保存为png图片.
