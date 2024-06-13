@@ -1,5 +1,17 @@
 # Vue3App
-使用vue3+electron制作的桌面应用
+使用vue3+electron制作的桌面应用,可build生成setup,并完成安装。
+
+
+
+
+
+
+
+
+
+
+
+
 This template should help get you started developing with Vue 3 in Vite.
 
 ## Recommended IDE Setup
